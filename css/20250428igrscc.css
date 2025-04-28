@@ -1159,19 +1159,19 @@ p.maintext {
 p.maintext2 {
    color:#b7a261; 
    font-family:Zen Old Mincho;
-   font-size: 24px;
+   font-size: 20px;
 }
 
 p.maintext3 {
    color:#b7a261; 
    font-family:Zen Old Mincho;
-   font-size: 20px;
+   font-size: 15px;
 }
 
 p.maintext4 {
    color:#b7a261; 
    font-family:Zen Old Mincho;
-   font-size: 50px;
+   font-size: 30px;
 }
 
 
@@ -1471,8 +1471,8 @@ opacity:0;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20px;
-  width: 30%; /* 全体を90%にして、 */
+  gap: 10px;
+  width: 20%;
   margin: 0 auto; /* 真ん中寄せ！ */
 }
 
